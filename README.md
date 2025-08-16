@@ -1,1 +1,1 @@
-"# Vocab" 
+# Vocab
