@@ -4,3 +4,7 @@
 *.toc
 *.synctex.gz
 *.pdf
+*.fdb_latexmk
+*.fls
+*.xdv
+*.sty
